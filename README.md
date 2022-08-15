@@ -4,7 +4,7 @@ This script can be used by Linux users to run Tagasaurus when the executable is 
 # usage 1 (direct the script to the executable)
 **source tagasaurus-run.sh /path/to/linux/tagasaurus/mounted/executable**
 
-# usage 2 (when executable is in same directory or that one directory deeper)
+# usage 2 (when executable is in same directory or one directory deeper)
 **source tagasaurus-run.sh** 
 
 ## Why Linux users may want this
